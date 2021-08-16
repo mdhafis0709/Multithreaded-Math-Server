@@ -1,4 +1,4 @@
-## Multithreaded Math Server Created by LATHP
+## Multithreaded Math Server 
 
 ### To Run the code
 
